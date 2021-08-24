@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Boletas",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

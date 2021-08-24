@@ -1,0 +1,7 @@
+{
+  "name": "Boletas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
