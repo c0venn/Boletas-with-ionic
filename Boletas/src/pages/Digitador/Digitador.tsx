@@ -6,8 +6,8 @@ const Digitador: React.FC = () => {
 
   const [result, setResult] = useState("");
 
-  const handleClick = (e) => {
-    setResult(result.concat(e.target.id));
+  const handleClick = (val) => {
+    setResult((result) => [...result, val + " "]);
   }
 
   function BorrarTodo () {
